@@ -1,0 +1,6 @@
+What happens when you initialize a repository? Why do you need to do it?
+A couple of git file are created to indicate that is a git repository and also to keep the status and logs locally
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+The Staging area is a middle layer which let to separete the repository from the working area and made commit from there instead commit all files that the working area may content.
+It allow not just indicate what files will be commited at once but also to sort the commits about to make
